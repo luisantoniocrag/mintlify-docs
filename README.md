@@ -30,3 +30,10 @@ Install our Github App to auto propagate changes from your repo to your deployme
 
 - Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
 - Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+
+#### Adding a new page
+
+To add a new page, create a new markdown file in the `docs` folder. The page will automatically be added to the sidebar.
+
+To add a new page to the sidebar, add the page to the `docs.json` file.
+
